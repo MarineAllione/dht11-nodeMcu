@@ -47,7 +47,7 @@ void setup() {
   dht.begin();                        // Démarrage du capteur DHT11
 
   WiFi.mode(WIFI_STA);
-  WiFiMulti.addAP("David", "daviddavid");     // Connexion au réseau wifi
+  WiFiMulti.addAP("Bbox-9271A76E", "15E3FE47ED1A674214E9F3C4AF9957");     // Connexion au réseau wifi
 
   
 }
